@@ -1,0 +1,6 @@
+export const UPDATE_ROTATE = '[Reducer Component] UPDATE_ROTATE'
+export const UPDATE_RED = '[Reducer Component] UPDATE_RED'
+export const UPDATE_GREEN = '[Reducer Component] UPDATE_GREEN'
+export const UPDATE_BLUE = '[Reducer Component] UPDATE_BLUE'
+export const UPDATE_ALPHA = '[Reducer Component] UPDATE_ALPHA'
+export const UPDATE_SCALE = '[Reducer Component] UPDATE_SCALE'
